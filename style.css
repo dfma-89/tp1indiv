@@ -1,0 +1,70 @@
+.box {
+    display: flex;
+    align-items: flex-start;
+    border-color: black;
+    border-style: solid;
+  }
+
+.red { 
+    background-color: #F0223B;
+    flex-direction:row;
+    align-items: center;
+    width: 75%;
+    height: 100px;
+}
+
+.fucsia {
+    background-color: #FA23A9;
+    flex-direction: row;
+    width: 25%;
+    height: 100px;
+}
+
+
+.darkViolet {
+    background-color: #8D0E96;
+    width: 50%;
+    height: 200px;
+}
+
+.box2 {
+    border-color: black;
+    border-style: solid;
+    width: 100%;
+}
+
+.celest {
+    background-color: #14E3B5;
+    width: 100%;
+    height: 100px;
+}
+
+.marine {
+    background-color: #15967A;
+    width: 100%;
+    height: 100px;
+}
+
+.violet {
+    background-color: #D72BE3;
+    flex-direction:row;
+    align-items: center;
+    width: 50%;
+    height: 100px;
+}
+
+.lightViolet {
+    background-color: #F34AFF;
+    flex-direction:row;
+    align-items: center;
+    width: 50%;
+    height: 100px;
+}
+
+.lightGreen  {
+    background-color: #7BE32B;
+    flex-direction:row;
+    align-items: center;
+    width: 50%;
+    height: 100px;
+}
